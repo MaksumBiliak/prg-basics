@@ -14,4 +14,4 @@ elif month>= 1:
     quarter=1
 
 
-print('Month {...} is in quarter {...}')
+print(f'Month {month} is in quarter {quarter}')
